@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 gym app:
 https://www.youtube.com/watch?v=gpqoZQ8GNK8
+https://fitclub-1my.pages.dev/
